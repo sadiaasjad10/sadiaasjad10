@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hello, I'm Sadia Asjad
 
-<!--
-**sadiaasjad10/sadiaasjad10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Data Science student interested in programming, software development, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new programming languages and developing projects that solve real-world problems.
+
+Currently, I am improving my skills in Python, C#, SQL, and web development.
+
+## Skills & Technologies
+
+### Programming Languages
+ Python
+ C#
+ C++
+ SQL
+
+### Web Development
+ HTML
+ CSS
+ JavaScript
+
+### Tools
+ Visual Studio Code
+ Git
+ GitHub
+ SQL Server
+
+## Featured Projects
+
+### PlantHive 
+A plant business management website designed to track plant sales, stock, and quantity.
+
+### PowerPulse 
+An electricity usage tracking project designed to calculate electricity consumption and estimate monthly bills.
+
+## Education
+
+ Degree: Data Science
+ University: UET
+ Semester: 3rd
+
+## Contact
+
+ GitHub: https://github.com/sadiaasjad10
+
+---
+
+ Thank you for visiting my profile!
